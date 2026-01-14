@@ -1,5 +1,4 @@
-# Randomly Rotated
-EM Scattering Data from Randomly Oriented Scatterers
+# EM Scattering Data from Randomly Oriented Scatterers
 
 Columns 1-16: Real{Ex}
 
